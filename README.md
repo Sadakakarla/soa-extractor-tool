@@ -1,4 +1,4 @@
-# Intake AI Take-Home Assignment 1b - SoA Extraction Tool
+# SoA Extraction Tool
 
 This is a tool that takes a clinical trial protocol PDF, finds the Schedule of Activities inside it, and pulls it out into structured JSON that a person can actually check against the source document. It comes with a small web UI so you can drop in a PDF and see what the tool found, rather than just trusting a JSON blob.
 
